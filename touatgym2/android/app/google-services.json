@@ -1,0 +1,33 @@
+{
+  "project_info": {
+    "project_number": "343160053773",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343160053773:android:your-app-id",
+        "android_client_info": {
+          "package_name": "com.touat.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343160053773-8p773mru282hq3sep48t96vtrno3bijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your-api-key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ]
+}

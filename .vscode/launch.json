@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "clock_1",
+            "cwd": "clock_1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "clock_1 (profile mode)",
+            "cwd": "clock_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "clock_1 (release mode)",
+            "cwd": "clock_1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "new_pro",
+            "cwd": "new_pro",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "new_pro (profile mode)",
+            "cwd": "new_pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "new_pro (release mode)",
+            "cwd": "new_pro",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
